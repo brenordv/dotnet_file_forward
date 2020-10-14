@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileForward", "./FileForward/FileForward.csproj", "{540039B8-9917-4CBC-BED9-089BAEE79EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileForwardTests", "FileForwardTests\FileForwardTests.csproj", "{73BEEB0D-2683-4F44-9E1B-9BCF45F78DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileForwardConsole", "FileForwardConsole\FileForwardConsole.csproj", "{A65E7C41-79FD-46FE-B36E-65CB9482229C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileForwardCLI", "FileForwardCLI\FileForwardCLI.csproj", "{4E2DE30C-E1A8-4570-8B0B-D0D563D8A0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540039B8-9917-4CBC-BED9-089BAEE79EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540039B8-9917-4CBC-BED9-089BAEE79EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540039B8-9917-4CBC-BED9-089BAEE79EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540039B8-9917-4CBC-BED9-089BAEE79EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BEEB0D-2683-4F44-9E1B-9BCF45F78DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BEEB0D-2683-4F44-9E1B-9BCF45F78DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BEEB0D-2683-4F44-9E1B-9BCF45F78DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BEEB0D-2683-4F44-9E1B-9BCF45F78DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65E7C41-79FD-46FE-B36E-65CB9482229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65E7C41-79FD-46FE-B36E-65CB9482229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65E7C41-79FD-46FE-B36E-65CB9482229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65E7C41-79FD-46FE-B36E-65CB9482229C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2DE30C-E1A8-4570-8B0B-D0D563D8A0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2DE30C-E1A8-4570-8B0B-D0D563D8A0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2DE30C-E1A8-4570-8B0B-D0D563D8A0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2DE30C-E1A8-4570-8B0B-D0D563D8A0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
