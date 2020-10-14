@@ -28,3 +28,8 @@ A simple test program, to demonstrate how to use the engine.
 
 ## FileForwardTests
 A couple tests for my validation helpers. I was going to create more tests, but i realized this is just a simple PoC that i'll probably never use again... so...
+
+
+# Important note
+As a dummy backend, i'm using JSONPlaceholder -> https://jsonplaceholder.typicode.com/
+It's great! you should give it a try! :D
